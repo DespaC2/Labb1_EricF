@@ -1,0 +1,39 @@
+.product-item {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+    background: white;
+}
+
+#cart {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-top: 20px;
+    background: wheat;
+}
+
+#cart-items {
+    list-style-type: none;
+    padding: 0;
+    background: wheat;
+}
+
+#cart-items li {
+    margin-bottom: 5px;
+    background: wheat;
+    flex-wrap: nowrap;
+}
+.product-item img {
+    width: 200px;
+    height: auto;
+   
+}
+  .body {
+      background-image: url(bgcar.jpg);
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-size: 100% 100%;
+  }
+  .title {
+    background-color: green;
+  }

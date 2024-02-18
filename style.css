@@ -1,0 +1,37 @@
+.header {
+    text-decoration: black;
+    padding: 10px;
+    text-align: center;
+    font-size: 35px;
+    height: auto;
+  
+    background-color: silver;
+    margin-top: 30px;
+}
+
+.video {
+    display: block;
+    margin: 0 auto;
+}
+
+  .body {
+      background-image: url(bgcar.jpg);
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-size: 100% 100%;
+  }
+
+  .promotext{
+    text-align: center;
+    margin: auto;
+    width: 70%;
+    border: 3px black;
+    background-color: white;
+    color: black;
+    text-indent: 50px;
+    letter-spacing: 3px;
+    font-size: large;
+     margin-top: -100px;
+
+  }
+  
