@@ -2,19 +2,19 @@ var products = [
     {
         name: "Oscar",
         price: 5,
-        image: "/Media/Oscar.jpg",
+        image: "/Labb1_EricF/Media/Oscar.jpg",
         description: "Meet Oscar, the spider monkey. With his keen senses and nimble fingers, Oscar keeps your car safe from theft and assists with common issues like jump-starts and locked doors. Trust Oscar to safeguard your vehicle with his unmatched skills and reliability."
     },
     {
         name: "Martin",
         price: 7,
-        image: "/Media/Martin.jpg",
+        image: "/Labb1_EricF/Media/Martin.jpg",
         description: "Meet Martin, the clever chimpanzee. With his sharp mind and quick reflexes, Martin ensures your car stays safe and assists with roadside issues. Trust Martin for top-notch security and peace of mind on the road."
     },
     {
         name: "Gary",
         price: 12,
-        image: "/Media/Gary.jpg",
+        image: "/Labb1_EricF/Media/Gary.jpg",
         description: " Introducing Gary, the powerhouse gorilla. With his strength and vigilance, Gary provides robust protection for your vehicle and helps with roadside challenges. Trust Gary for unmatched security and assistance on your journeys."
     }
 ];
