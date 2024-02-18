@@ -15,7 +15,7 @@
 }
 
   .body {
-      background-image: url(bgcar.jpg);
+      background-image: url(/Media/bgcar.jpg);
       background-repeat: no-repeat;
       background-attachment: fixed;
       background-size: 100% 100%;
