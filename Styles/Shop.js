@@ -8,13 +8,13 @@ var products = [
     {
         name: "Martin",
         price: 7,
-        image: "Media/Martin.jpg",
+        image: "/Labb1_EricF/Media/Martin.jpg",
         description: "Meet Martin, the clever chimpanzee. With his sharp mind and quick reflexes, Martin ensures your car stays safe and assists with roadside issues. Trust Martin for top-notch security and peace of mind on the road."
     },
     {
         name: "Gary",
         price: 12,
-        image: "Labb1_EricF/Media/Gary.jpg",
+        image: "/Labb1_EricF/Media/Gary.jpg",
         description: " Introducing Gary, the powerhouse gorilla. With his strength and vigilance, Gary provides robust protection for your vehicle and helps with roadside challenges. Trust Gary for unmatched security and assistance on your journeys."
     }
 ];
